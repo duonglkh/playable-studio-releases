@@ -61,6 +61,6 @@ Mỗi dự án được **lưu lại** → mở lại chỉnh sửa tiếp, khô
 
 ---
 
-*Mã nguồn ở repo riêng tư. Bản cài chưa ký số nên lần đầu mở sẽ có cảnh báo "unknown publisher" (Windows) / Gatekeeper (macOS) — bình thường.*
+*Bản cài chưa ký số nên lần đầu mở sẽ có cảnh báo "unknown publisher" (Windows) / Gatekeeper (macOS) — bình thường.*
 
 **© duonglkh (Hidev)**
