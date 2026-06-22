@@ -14,4 +14,3 @@ Tải bản mới nhất ở mục **[Releases »](../../releases/latest)**:
 - **Windows**: SmartScreen báo *"Unknown publisher"* → **More info → Run anyway**.
 - **macOS**: Gatekeeper chặn → **chuột phải vào app → Open → Open** (hoặc *System Settings → Privacy & Security → Open Anyway*).
 
-Mã nguồn nằm ở repo riêng tư.
